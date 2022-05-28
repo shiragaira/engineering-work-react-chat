@@ -1,10 +1,5 @@
 function App() {
-  return (
-    <div>
-      Siemka
-      <h1> Albo nie</h1>
-    </div>
-  );
+  return <div className='text-3xl'>Hello world!</div>;
 }
 
 export default App;
